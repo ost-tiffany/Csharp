@@ -4,6 +4,10 @@ namespace Csharp
 {
     class MainClass
     {
+        string Using;
+        string Computer;
+        string Reference;
+
         public static void Main(string[] args)
         {
             EmptyClass.func1();
@@ -46,6 +50,20 @@ namespace Csharp
                 }
 
             }
+
+            //credit to
+            MainClass atHome = new MainClass();
+            atHome.Using = "visual studio";
+            atHome.Reference = "w3schools";
+            atHome.Computer = "macbook";
+            Console.WriteLine("At Home using " + atHome.Using + " with reference from " + atHome.Reference + " computer is : " + atHome.Computer);
+
+            MainClass atWork = new MainClass();
+            atWork.Using = "visual studio";
+            atWork.Reference = "w3schools";
+            atWork.Computer = "dont know";
+            Console.WriteLine("At Work using " + atWork.Using + " with reference from " + atWork.Reference);
+            Console.WriteLine(" computer is : " + atWork.Computer);
 
         }
     }

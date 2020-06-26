@@ -1,10 +1,5 @@
 ﻿<Properties StartupConfiguration="{7B49710A-80B3-4C72-BD1C-298523196653}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Csharp/crudtest.cs">
-    <Files>
-      <File FileName="Csharp/Program.cs" Line="48" Column="14" />
-      <File FileName="Csharp/crudtest.cs" Line="27" Column="1" />
-      <File FileName="Csharp/counting.cs" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -12,7 +7,7 @@
             <Node name="Csharp" expanded="True">
               <Node name="References" expanded="True" />
               <Node name="Properties" expanded="True" />
-              <Node name="crudtest.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

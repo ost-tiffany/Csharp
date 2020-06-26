@@ -1,0 +1,6 @@
+/Users/ost/Desktop/test/Csharp/Csharp/bin/Debug/Csharp.exe
+/Users/ost/Desktop/test/Csharp/Csharp/bin/Debug/Csharp.pdb
+/Users/ost/Desktop/test/Csharp/Csharp/obj/Debug/Csharp.csprojAssemblyReference.cache
+/Users/ost/Desktop/test/Csharp/Csharp/obj/Debug/Csharp.csproj.CoreCompileInputs.cache
+/Users/ost/Desktop/test/Csharp/Csharp/obj/Debug/Csharp.exe
+/Users/ost/Desktop/test/Csharp/Csharp/obj/Debug/Csharp.pdb
